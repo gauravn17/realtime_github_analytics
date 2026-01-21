@@ -5,11 +5,13 @@ A production-style **real-time data engineering system** that ingests live GitHu
 This project mirrors patterns used in modern data platforms:  
 **event streaming → stream processing → analytics storage → visualization**.
 
-📊 Dashboard Highlights
+## 📊 Dashboard Highlights
 	•	Event Type Distribution (PushEvent, CreateEvent, etc.)
 	•	Top 10 Trending Repositories
 	•	Most Active GitHub Users
 	•	Events Per Minute (Streaming Throughput)
+
+
 Dashboards update automatically as new events flow through the system.
 
 ![Events Type Distribution](image.png)
