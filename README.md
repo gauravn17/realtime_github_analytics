@@ -6,7 +6,7 @@ This project mirrors patterns used in modern data platforms:
 **event streaming → stream processing → analytics storage → visualization**.
 ![Events Type Distribution](image.png)
 ![Top 10 Trending Repos](image-1.png)
-![alt text](image-2.png)
+
 ---
 
 ## Architecture Overview
