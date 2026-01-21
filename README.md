@@ -7,8 +7,9 @@ This project mirrors patterns used in modern data platforms:
 ![Events Type Distribution](image.png)
 ![Top 10 Trending Repos](image-1.png)
 <img width="631" height="724" alt="image" src="https://github.com/user-attachments/assets/9d7f37a2-da18-4926-a536-46fe8a84ee63" />
-<img width="1578" height="968" alt="image" src="https://github.com/user-attachments/assets/cbd31fee-b6c4-4e89-acb8-fbffb573f20d" />
-![Uploading image.png…]()
+<img width="668" height="778" alt="image" src="https://github.com/user-attachments/assets/cbd31fee-b6c4-4e89-acb8-fbffb573f20d" />
+<img width="657" height="705" alt="image" src="https://github.com/user-attachments/assets/f8ae6f30-b0e2-405c-969e-ab7894409b18" />
+
 
 
 ---
