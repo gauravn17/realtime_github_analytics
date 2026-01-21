@@ -6,6 +6,10 @@ This project mirrors patterns used in modern data platforms:
 **event streaming → stream processing → analytics storage → visualization**.
 ![Events Type Distribution](image.png)
 ![Top 10 Trending Repos](image-1.png)
+<img width="631" height="724" alt="image" src="https://github.com/user-attachments/assets/9d7f37a2-da18-4926-a536-46fe8a84ee63" />
+<img width="1578" height="968" alt="image" src="https://github.com/user-attachments/assets/cbd31fee-b6c4-4e89-acb8-fbffb573f20d" />
+![Uploading image.png…]()
+
 
 ---
 
