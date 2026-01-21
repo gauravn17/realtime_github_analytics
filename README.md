@@ -153,7 +153,7 @@ Repository Structure
 └── README.md
 
 ```
-## Some Example SQL Used :
+## Some Example SQL Queries Run in Grafana :
 
 - Event Type Distribution
     - Purpose:
