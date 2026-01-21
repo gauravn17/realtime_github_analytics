@@ -1,6 +1,6 @@
 # Real-Time GitHub Analytics Platform
 
-A production-style **real-time data engineering system** that ingests live GitHub public events, processes them using distributed streaming infrastructure, stores both raw and aggregated data, and exposes analytical insights through dashboards.
+A production-style **real-time data engineering system** that ingests 245,000+ live GitHub public events, processes them using distributed streaming infrastructure, stores both raw and aggregated data, and exposes analytical insights through dashboards.
 
 This project mirrors patterns used in modern data platforms:  
 **event streaming → stream processing → analytics storage → visualization**.
