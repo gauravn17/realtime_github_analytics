@@ -156,7 +156,7 @@ Repository Structure
 ## SQL :
 
 - Event Type Distribution
-Purpose
+    - Purpose
 	•	Analyze GitHub activity composition
 	•	Drives the Event Types Distribution panel
 ```	
@@ -178,7 +178,7 @@ GROUP BY repo_name
 ORDER BY event_count DESC
 LIMIT 10; 
 ```
-Purpose
+- Purpose
 	•	Identify trending repositories in real time
 	•	Used for leaderboard visualizations
 
