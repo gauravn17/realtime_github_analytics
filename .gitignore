@@ -1,5 +1,16 @@
-.env
+# Python
 __pycache__/
+*.pyc
+.venv/
+.env
+
+# Spark
+spark-warehouse/
+*.jar
+
+# Docker
 *.log
-.vscode/
-.idea/
+postgres_data/
+
+# OS
+.DS_Store
