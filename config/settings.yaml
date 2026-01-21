@@ -1,0 +1,22 @@
+github:
+  poll_interval_seconds: 10
+  api_url: https://api.github.com/events
+  max_events_per_poll: 100
+
+kafka:
+  topic: github_events
+  partitions: 1
+  replication_factor: 1
+
+spark:
+  checkpoint_location: /tmp/spark-checkpoints/github
+
+database:
+  schema: public
+  fact_table: events
+  repo_table: repos
+  actor_table: actors
+
+airflow:
+  retries: 3
+  retry_delay_minutes: 5
