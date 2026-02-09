@@ -191,12 +191,3 @@ This project demonstrates:
 	•	Analytics-ready schema design
 	•	Practical dashboarding with Grafana
 
-It intentionally focuses on infrastructure realism, reflecting production data engineering systems rather than toy ETL scripts.
-
-
-Next Steps (Planned)
-	•	Airflow DAGs for scheduled aggregation jobs
-	•	Incremental UPSERT patterns for aggregates
-	•	Data quality checks and monitoring
-	•	Grafana alerting
-	•	Cloud deployment (AWS / GCP)
