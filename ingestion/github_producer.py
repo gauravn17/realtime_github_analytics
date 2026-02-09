@@ -8,14 +8,6 @@ Polls GitHub Events API and publishes to Kafka with:
 - Error resilience
 - Comprehensive logging & metrics
 
-IMPORTANT NOTES:
-- GitHub Events API is eventually consistent and may return
-  events out of order or replay older events.
-- Deduplication ensures idempotent ingestion.
-- Kafka is treated as the durability boundary.
-
-Usage:
-    python github_producer.py
 """
 
 import os
